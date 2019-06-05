@@ -1,7 +1,7 @@
 // 入口文件
 import Vue from 'vue'
 
-//导入app根组件
+//导入app根组件  
 import app from './App.vue'
 
 //按需导入mint-ui组件
